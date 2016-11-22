@@ -1,28 +1,28 @@
 body{
-  background-color:#EEEEEE;
+  background-color: #EEEEEE;
 }
 #container{
-  background-color:#FFFFFF;
-  width:400;
-  margin-left:auto;
-  margin-right:auto;
+  background-color: #FFFFFF;
+  width: 400;
+  margin-left: auto;
+  margin-right: auto;
 }
 #header{
-  background-color:#66CCFF;
-  color:#FFFFFF;
-  text-align:center;
+  background-color: #66CCFF;
+  color: #FFFFFF;
+  text-align: center;
 }
 #content{
-  padding:10;
+  padding: 10;
 }
 #nav{
-  width:180;
-  float:left;
+  width: 180;
+  float: left;
 }
 #main{
-  width:600;
-  float:right;
+  width: 600;
+  float: right;
 }
 #footer{
-  clear:both;
+  clear: both;
 }
