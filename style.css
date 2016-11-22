@@ -31,11 +31,6 @@ body{
   clear: both;
   text-align: right;
 }
-#nextTwo{
-  width: 980px;
-  float: right;
-  background-color: #990000;
-}
 #extra{
   width: 370px;
   float: right;
