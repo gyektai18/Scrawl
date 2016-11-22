@@ -4,8 +4,26 @@ BODY{
 #header{
   background-color: #66CCFF;
   color:#FF66FF;
+  text-align:center;
 }
 #heading2{
   background-color: #FF9900;
   color:#66CCFF;
+  text-align:center;
+}
+#tabs{
+  width:800px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#dad{
+  padding:10px;
+  float:right;
+}
+#spongeBobLyrics{
+  padding:10px;
+  float:left;
+}
+#kungfuPanda{
+ padding:10px;
 }
