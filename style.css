@@ -20,9 +20,17 @@ body{
   float: left;
 }
 #main{
-  width: 600px;
+  width: 350px;
   float: right;
 }
 #footer{
   clear: both;
+}
+#nextTwo{
+  width: 600px;
+  float: right;
+}
+#extra{
+  width: 200px;
+  float: right;
 }
