@@ -12,3 +12,12 @@ body{
   color: #FFFFFF;
   text-align: center;
 }
+#content{
+  padding: 10px;
+}
+#nav{
+  width:180px;
+}
+#main{
+  width:600px;
+}
