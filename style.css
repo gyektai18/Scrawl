@@ -1,15 +1,15 @@
 body{
-  background-color:#EEE;
+  background-color:#FFFFFF;
 }
 #container{
-  background-color:white;
+  background-color:#FFFFFF;
   width:800px;
   margin-left:auto;
   margin-right:auto;
 }
 #header{
   background-color:#66CCFF;
-  color:white;
+  color:#FFFFFF;
   text-align:center;
 }
 #content{
