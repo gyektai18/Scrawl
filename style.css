@@ -9,17 +9,3 @@
   color: #FFFFFF;
   text-align: center;
 }
-#content{
-  padding: 10;
-}
-#nav{
-  width: 180;
-  float: left;
-}
-#main{
-  width: 600;
-  float: right;
-}
-#footer{
-  clear: both;
-}
